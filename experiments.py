@@ -18,6 +18,8 @@ sana = 3.25 * yildagi_kunlar
 natija = yosh * sana
 print(f"{yosh} yoshdagi odam {sana} kun yashab {natija} kun yashab.")
 
+print("Hello world")
+
 
 
 
